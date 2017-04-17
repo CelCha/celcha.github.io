@@ -1,5 +1,16 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-04-16T18:40:58-07:00</updated><id>http://localhost:4000/</id><title type="html">Celina Chang</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
-</subtitle><entry><title type="html">Odin with Friends</title><link href="http://localhost:4000/works/odin-with-friends.html" rel="alternate" type="text/html" title="Odin with Friends" /><published>2015-10-16T00:47:50-07:00</published><updated>2015-10-16T00:47:50-07:00</updated><id>http://localhost:4000/works/odin-with-friends</id><content type="html" xml:base="http://localhost:4000/works/odin-with-friends.html">&lt;div class=&quot;row&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-04-16T20:54:00-07:00</updated><id>http://localhost:4000/</id><title type="html">Celina Chang</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+</subtitle><entry><title type="html">WeMesh Presskit</title><link href="http://localhost:4000/works/wemesh-presskit.html" rel="alternate" type="text/html" title="WeMesh Presskit" /><published>2016-07-24T00:47:50-07:00</published><updated>2016-07-24T00:47:50-07:00</updated><id>http://localhost:4000/works/wemesh-presskit</id><content type="html" xml:base="http://localhost:4000/works/wemesh-presskit.html">&lt;div class=&quot;row paragraph&quot;&gt;
+  &lt;div class=&quot;col-md-12&quot;&gt;
+    &lt;p&gt;As a UI/UX Designer at WeMesh (rebranded as Rave), I was tasked with designing and implementing the presskit for the company's website. I used Bootstrap and JavaScript/JQuery to implement the webpage. Below is a quick snapshot of the presskit.&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;row&quot;&gt;
+  &lt;center&gt;
+  &lt;div class=&quot;col-md-12&quot;&gt;
+    &lt;a href=&quot;../img/portfolio/presspage.png&quot; data-lightbox=&quot;odin&quot;&gt;&lt;img src=&quot;../img/portfolio/presspage.png&quot;/&gt;&lt;/a&gt;
+  &lt;/div&gt;
+&lt;/center&gt;
+&lt;/div&gt;</content><author><name></name></author><summary type="html">As a UI/UX Designer at WeMesh (rebranded as Rave), I was tasked with designing and implementing the presskit for the company's website. I used Bootstrap and JavaScript/JQuery to implement the webpage. Below is a quick snapshot of the presskit.</summary></entry><entry><title type="html">Odin with Friends</title><link href="http://localhost:4000/works/odin-with-friends.html" rel="alternate" type="text/html" title="Odin with Friends" /><published>2015-10-16T00:47:50-07:00</published><updated>2015-10-16T00:47:50-07:00</updated><id>http://localhost:4000/works/odin-with-friends</id><content type="html" xml:base="http://localhost:4000/works/odin-with-friends.html">&lt;div class=&quot;row&quot;&gt;
   &lt;div class=&quot;col-md-4&quot;&gt;
   &lt;img src=&quot;../img/portfolio/husky.png&quot;/&gt;
   &lt;/div&gt;
