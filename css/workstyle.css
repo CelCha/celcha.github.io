@@ -1,0 +1,101 @@
+.index .navbar-brand .backarrow {
+	background: url(../icons/backarrow.png) no-repeat;
+    background-size: 32px 32px;
+    height: 32px;
+    width: 32px;
+}
+.work-content {
+	margin-left: 115px;
+	margin-right: 100px;
+	padding-right: 50px;
+	padding-left: 50px;
+}
+	.work-content h1, .work-content h2{
+		text-align: center;
+		margin: 10px;
+		padding: 0px;
+	}
+	.work-content p {
+		line-height: 1.5;
+		text-align: justify;
+	}
+
+	.work-content .row {
+		margin: 50px;
+	}
+	.work-content .row .odin-intro p{
+		vertical-align: center;
+	}
+
+.large-img {
+	width: 100%;
+	height: auto;
+}
+.workpage-container {
+	margin: 50px 65px 50px 65px;
+	display: flex;
+	flex-flow: row wrap;
+	justify-content: space-around;
+	align-content: flex-start;
+}
+.workpage-container > div{
+	box-sizing: border-box;
+
+}
+	.four  > div{
+		width: calc(1/4*100% - (1 - 1/4)*10px);
+	}
+
+	.two > div {
+		width: calc(1/2*100% - (1 - 1/2)*10px);
+	}
+
+.work-asset{
+	background-color: #fff;
+	height: auto;
+	margin: auto;
+	position:relative;
+}
+	.four-item {
+		width: 25%;
+		flex-grow: 1 25%;
+		height:auto;
+	}
+
+	.two-item {
+		width: 50%;
+		flex-grow: 1 50%;
+		height:auto;
+	}
+	.small {
+		width: 15%;
+		height: auto;
+	}
+
+.work-asset img {
+	width: 100%;
+	height: auto;
+}
+
+.right-work {
+	text-align: right;
+}
+
+.rightlink:hover {
+	text-decoration: none;
+}
+
+.rightlink:hover p{
+	color: #3FBAEB;
+}
+.rightlink p{
+	text-align: right;
+	display: inline;
+}
+
+.rightlink img {
+	height: 50px;
+	width: auto;
+	display: inline;
+	margin-left: 10px;
+}

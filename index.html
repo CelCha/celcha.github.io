@@ -1,0 +1,14 @@
+---
+<!--See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults-->
+layout: default
+title: Celina Chang
+---
+
+<div class="set works-container">
+  {% for post in site.posts %}
+  <div class="item works-item">
+    <img src="{{ post.thumb }}"/>
+    <span><a href="{{ post.url | relative_url }}"><h2 class="title">{{ post.title | escape }}</h2></a></span>
+  </div>
+  {% endfor %}
+</div>

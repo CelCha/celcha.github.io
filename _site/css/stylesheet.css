@@ -1,0 +1,389 @@
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+}
+
+html {
+	height: 100%;
+	width: 100%;
+}
+
+body {
+	font-size: 0.9rem;
+	font-family: "Maven Pro", sans-serif;
+	font-weight: 300;
+	color: #4A4A4A;
+	background-color: #fff;
+	height: 100%;
+	width: 100%;
+	overflow-x: hidden;
+}
+
+/*----------------- Font ----------------------------*/
+
+a{
+	color: #4A4A4A;
+	font-weight: 400;
+}
+	a:hover {
+		color: #4A4A4A;
+	}
+
+h1 {
+	font-family: "Lato", sans-serif;
+	font-size: 2rem;
+	font-weight:300;
+}
+
+h2 {
+	font-size: 1rem;
+	font-weight: 400;
+	margin: 50px 100px 10px 120px;
+	color: #BBBBBB;
+}
+
+h3 {
+	font-size: 0.9rem;
+}
+
+.text-link {
+	color: #3FBAEB;
+	opacity: 1;
+}
+
+.text-link:hover {
+	color: #3FBAEB;
+	opacity: 0.7;
+	text-decoration: none;
+}
+
+/*----------------- Buttons -------------------------*/
+.index {
+	margin: 50px 100px 50px 100px;
+}
+
+.navlink {
+	color: #4A4A4A;
+	font-weight: 400;
+	font-size: 1rem;
+}
+	.navlink:hover {
+		color: #4A4A4A;
+		opacity: 0.7;
+	}
+
+	.main-nav .nav li a.active {
+		text-decoration: none;
+    background-color: #eee;
+	}
+/*----------------- Containers ----------------------------*/
+
+.set {
+	margin-left: 115px;
+	margin-right: 100px;
+	display: flex;
+	flex-flow: row wrap;
+	justify-content: space-around;
+	align-content: flex-start;
+}
+
+.works-container > div {
+  /*
+    1/3  - 3 columns per row
+    10px - spacing between columns
+  */
+  	box-sizing: border-box;
+  	margin-bottom: 10px;
+	width: calc(1/3*100% - (1 - 1/3)*10px);
+}
+
+.gallery-container > div{
+	box-sizing: border-box;
+	margin-bottom: 10px;
+	width: calc(1/4*100% - (1 - 1/4)*10px);
+}
+
+
+@media all and (max-width: 700px) {
+  .set {
+    flex-direction: column;
+    margin: 50px;
+    padding: 0px;
+   }
+
+   .set .item{
+   	width: 100%;
+
+   }
+}
+
+
+/*----------------- Works ---------------------------*/
+
+.item {
+	background-color: #fff;
+	height: auto;
+	margin: auto;
+	position:relative;
+	overflow: hidden;
+}
+	.item img {
+		width: 100%;
+		height: auto;
+		-webkit-transition: all 0.2s ease-in-out;
+	}
+
+	.item:hover img {
+		-webkit-transform: scale(1.1);
+	}
+
+	.item .title, .motion-item .title {
+		color: #fff;
+		background-color:rgba(0,0,0,0.6);
+
+		position: absolute;
+		display:flex;
+	    align-items: center;
+	    justify-content: center;
+	   	vertical-align: middle;
+		top: 0;
+		bottom:0;
+		left:0;
+		right:0;
+
+		opacity: 0;
+		-webkit-transition: all 0.2s ease-in;
+		text-align: center;
+		margin: 0px;
+
+	}
+
+		.item:hover .title, .motion-item:hover .title{
+		opacity: 1;
+		background-color:rgba(0,0,0,0.6);
+		-webkit-transition: all 0.2s ease-out;
+
+	}
+
+/*----------------- Works -----------------------------*/
+
+.works-item {
+	width: 33%;
+	flex-grow: 1 33%;
+}
+
+	.works-item .title {
+		font-size: 1.2rem;
+		font-weight: 600;
+	}
+
+/*----------------- Gallery ---------------------------*/
+
+.gallery-item {
+	width: 25%;
+	height:auto;
+	flex-grow: 1 25%;
+}
+.gallery-item:before {
+	content:     "";
+	display:     block;
+    padding-top: 100%;
+}
+
+	.gallery-item img {
+    	position: absolute;
+    	top:      0;
+    	left:     0;
+    	bottom:   0;
+    	right:    0;
+	}
+
+	.gallery-item .title {
+		font-size: 0.9rem;
+		font-weight: 600;
+	}
+
+	.gallery-item .landscape {
+    	height: 100%;
+ 		width: auto;
+	}
+
+/*----------------- Motion ---------------------------*/
+
+.motion-item {
+	background-color: #fff;
+	height: auto;
+	margin: auto;
+	position:relative;
+	overflow: hidden;
+	width: 100%;
+	height: 66vh;
+	flex-grow: 1 100%;
+}
+	.motion-item .motion-overlay .gif {
+		height: 100%;
+		width: auto;
+	}
+
+	.motion-item .motion-overlay {
+		background-color: #fff;
+		width: 100%;
+		height: 100%;
+		padding: 20px;
+		cursor: pointer;
+	}
+		.motion-item .motion-overlay img{
+			position: absolute;
+	    	top:      0;
+	    	left:     0;
+	    	bottom:   0;
+	    	right:    0;
+	    	display: block;
+	    	margin: auto;
+	    	width: 30%;
+	    	height: auto;
+			-webkit-transition: all 0.5s ease-in-out;
+		}
+
+		.motion-item:hover .motion-overlay img {
+			-webkit-transform: scale(1.2);
+		}
+		.motion-item .motion-overlay .title {
+			font-size: 1.5rem;
+			font-weight: 600;
+		}
+	.motion-item #vid-1 {
+		background-color: #00AB6C;
+	}
+		.motion-item #vid-1 img{
+			width: 20%;
+			height: auto;
+		}
+
+	.motion-item #vid-2 {
+		background-color: #8345B9;
+	}
+		.motion-item #vid-2 img{
+			width: 15%;
+			height: auto;
+		}
+
+	.motion-item #vid-3 {
+		background-color: #B92336;
+	}
+		.motion-item #vid-3 img{
+			width: 20%;
+			height: auto;
+		}
+
+	.motion-item #vid-4 {
+		background-color: #12B7D5;
+	}
+
+	.motion-item #vid-5 {
+		background-color: #F6FEEB;
+	}
+/*----------------- About ---------------------------*/
+
+.about {
+	margin: 0px;
+	margin-right: 200px;
+}
+.about .profile img {
+	width:50%;
+	height: auto;
+	float: right;
+}
+
+.about .text {
+	padding-right: 200px;
+}
+	.about .text h2 {
+		font-size: 0.8rem;
+		margin: 10px 0px 10px 0px;
+	}
+
+	.about .text p {
+		margin-top: 10px;
+		line-height: 1.5;
+		text-align: justify;
+	}
+
+/*------------------------------------------*/
+
+.footer {
+
+	margin: 50px 100px 50px 120px;
+}
+	.footer h3 {
+		margin: 2px;
+	}
+
+.footer-title {
+	font-weight: 400;
+	font-size: 1rem;
+	margin: 2px;
+}
+
+
+.inline-list {
+	list-style-type: none;
+	padding: 0px;
+	margin: 0px;
+}
+
+	.inline-list li {
+		display: inline-block;
+		margin: 5px;
+	}
+
+#github {
+    background: url(../icons/github-line.png) no-repeat;
+    background-size: 28px 28px;
+    height: 28px;
+    width: 28px;
+    -o-transition: .5s;
+    -ms-transition: .5s;
+    -moz-transition: .5s;
+    -webkit-transition: .5s;
+    transition: .5s;
+}
+	#github:hover {
+		background: url(../icons/githubb.png) no-repeat;
+		background-size: 28px 28px;
+    	height: 28px;
+  	  	width: 28px;
+	}
+
+#linkedin {
+    background: url(../icons/linkedin-line.png) no-repeat;
+    background-size: 28px 28px;
+    height: 28px;
+    width: 28px;
+    -o-transition: .5s;
+    -ms-transition: .5s;
+    -moz-transition: .5s;
+    -webkit-transition: .5s;
+    transition: .5s;
+}
+	#linkedin:hover {
+		background: url(../icons/linkedinb.png) no-repeat;
+		background-size: 28px 28px;
+    	height: 28px;
+  	  	width: 28px;
+	}
