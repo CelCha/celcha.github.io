@@ -1,18 +1,35 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-04-16T20:54:00-07:00</updated><id>http://localhost:4000/</id><title type="html">Celina Chang</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-05-11T21:57:31-07:00</updated><id>http://localhost:4000/</id><title type="html">Celina Chang</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 </subtitle><entry><title type="html">WeMesh Presskit</title><link href="http://localhost:4000/works/wemesh-presskit.html" rel="alternate" type="text/html" title="WeMesh Presskit" /><published>2016-07-24T00:47:50-07:00</published><updated>2016-07-24T00:47:50-07:00</updated><id>http://localhost:4000/works/wemesh-presskit</id><content type="html" xml:base="http://localhost:4000/works/wemesh-presskit.html">&lt;div class=&quot;row paragraph&quot;&gt;
   &lt;div class=&quot;col-md-12&quot;&gt;
     &lt;p&gt;As a UI/UX Designer at WeMesh (rebranded as Rave), I was tasked with designing and implementing the presskit for the company's website. I used Bootstrap and JavaScript/JQuery to implement the webpage. Below is a quick snapshot of the presskit.&lt;/p&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class=&quot;row&quot;&gt;
-  &lt;center&gt;
+    &lt;a href=&quot;../img/portfolio/presspage.png&quot; data-lightbox=&quot;odin&quot;&gt;&lt;img class=&quot;large-img img-border&quot; src=&quot;../img/portfolio/presspage.png&quot;/&gt;&lt;/a&gt;
+&lt;/div&gt;</content><author><name></name></author><summary type="html">As a UI/UX Designer at WeMesh (rebranded as Rave), I was tasked with designing and implementing the presskit for the company's website. I used Bootstrap and JavaScript/JQuery to implement the webpage. Below is a quick snapshot of the presskit.</summary></entry><entry><title type="html">Portfolio Design</title><link href="http://localhost:4000/works/portfolio-design.html" rel="alternate" type="text/html" title="Portfolio Design" /><published>2015-10-16T00:47:50-07:00</published><updated>2015-10-16T00:47:50-07:00</updated><id>http://localhost:4000/works/portfolio-design</id><content type="html" xml:base="http://localhost:4000/works/portfolio-design.html">&lt;div class=&quot;row paragraph&quot;&gt;
   &lt;div class=&quot;col-md-12&quot;&gt;
-    &lt;a href=&quot;../img/portfolio/presspage.png&quot; data-lightbox=&quot;odin&quot;&gt;&lt;img src=&quot;../img/portfolio/presspage.png&quot;/&gt;&lt;/a&gt;
+    &lt;p&gt;Every co-op term, I usually redesign my personal website due to new design practices and mostly to apply new skills I have obtained or old skills that I have improved. This term, the focus of the portfolio design was of course, the portfolio content. I wanted more pictures and less words which I tried to convey in my old design, but unfortunately it was poorly executed.&lt;br&gt;&lt;br&gt;
+
+    My old personal website was a one-page website and used JQuery to swap content in and out. This time, I learned to use Jekyll to set up templates and make swapping content more efficient. Below are a couple of mockups of potential portfolio designs created with Sketch.&lt;br&gt;&lt;br&gt;&lt;/p&gt;
   &lt;/div&gt;
-&lt;/center&gt;
-&lt;/div&gt;</content><author><name></name></author><summary type="html">As a UI/UX Designer at WeMesh (rebranded as Rave), I was tasked with designing and implementing the presskit for the company's website. I used Bootstrap and JavaScript/JQuery to implement the webpage. Below is a quick snapshot of the presskit.</summary></entry><entry><title type="html">Odin with Friends</title><link href="http://localhost:4000/works/odin-with-friends.html" rel="alternate" type="text/html" title="Odin with Friends" /><published>2015-10-16T00:47:50-07:00</published><updated>2015-10-16T00:47:50-07:00</updated><id>http://localhost:4000/works/odin-with-friends</id><content type="html" xml:base="http://localhost:4000/works/odin-with-friends.html">&lt;div class=&quot;row&quot;&gt;
+&lt;/div&gt;
+&lt;div class=&quot;row&quot;&gt;
+  &lt;div class=&quot;col-md-12&quot;&gt;
+    &lt;a href=&quot;../img/portfolio/portfolio1-1.png&quot; data-lightbox=&quot;portfolio&quot;&gt;&lt;img class=&quot;large-img img-border&quot; src=&quot;../img/portfolio/portfolio1-1.png&quot;/&gt;&lt;/a&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;row&quot;&gt;
+  &lt;div class=&quot;col-md-12&quot;&gt;
+    &lt;a href=&quot;../img/portfolio/portfolio2.png&quot; data-lightbox=&quot;portfolio&quot;&gt;&lt;img class=&quot;large-img img-border&quot; src=&quot;../img/portfolio/portfolio2.png&quot;/&gt;&lt;/a&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;row&quot;&gt;
+  &lt;div class=&quot;col-md-12&quot;&gt;
+    &lt;a href=&quot;../img/portfolio/portfolio3.png&quot; data-lightbox=&quot;portfolio&quot;&gt;&lt;img class=&quot;large-img img-border&quot; src=&quot;../img/portfolio/portfolio3.png&quot;/&gt;&lt;/a&gt;
+  &lt;/div&gt;
+&lt;/div&gt;</content><author><name></name></author><summary type="html">Every co-op term, I usually redesign my personal website due to new design practices and mostly to apply new skills I have obtained or old skills that I have improved. This term, the focus of the portfolio design was of course, the portfolio content. I wanted more pictures and less words which I tried to convey in my old design, but unfortunately it was poorly executed.</summary></entry><entry><title type="html">Odin with Friends</title><link href="http://localhost:4000/works/odin-with-friends.html" rel="alternate" type="text/html" title="Odin with Friends" /><published>2015-10-16T00:47:50-07:00</published><updated>2015-10-16T00:47:50-07:00</updated><id>http://localhost:4000/works/odin-with-friends</id><content type="html" xml:base="http://localhost:4000/works/odin-with-friends.html">&lt;div class=&quot;row&quot;&gt;
   &lt;div class=&quot;col-md-4&quot;&gt;
-  &lt;img src=&quot;../img/portfolio/husky.png&quot;/&gt;
+  &lt;img id=&quot;husky-web&quot; src=&quot;../img/portfolio/husky.png&quot;/&gt;
   &lt;/div&gt;
   &lt;div class=&quot;odin-intro col-md-8&quot;&gt;
     &lt;p&gt;Odin with Friends is a hackathon project that I participated in when I was a QA Engineer Co-op at Zynga Inc. It was a 3 day project. The concept of the game was based on the office dog, Odin. The team decided to based the game off of Flappy Bird. As a result, Odin with Friends became a multiplayer version of Flappy Bird with the addition of horizontal controls. Players can propel themselves forward or backgrounds in addition to jumping over obstacles.
@@ -84,21 +101,21 @@
 
 &lt;div class=&quot;row&quot;&gt;
   &lt;div class=&quot;col-md-12&quot;&gt;
-    &lt;a href=&quot;../img/portfolio/page1.png&quot; data-lightbox=&quot;spartans&quot;&gt;&lt;img class=&quot;large-img&quot; src=&quot;../img/portfolio/page1.png&quot;/&gt;&lt;/a&gt;
+    &lt;a href=&quot;../img/portfolio/page1.png&quot; data-lightbox=&quot;spartans&quot;&gt;&lt;img class=&quot;large-img img-border&quot; src=&quot;../img/portfolio/page1.png&quot;/&gt;&lt;/a&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class=&quot;row&quot;&gt;
   &lt;div class=&quot;col-md-12&quot;&gt;
-    &lt;a href=&quot;../img/portfolio/page2.png&quot; data-lightbox=&quot;spartans&quot;&gt;&lt;img class=&quot;large-img&quot; src=&quot;../img/portfolio/page2.png&quot;/&gt;&lt;/a&gt;
+    &lt;a href=&quot;../img/portfolio/page2.png&quot; data-lightbox=&quot;spartans&quot;&gt;&lt;img class=&quot;large-img img-border&quot; src=&quot;../img/portfolio/page2.png&quot;/&gt;&lt;/a&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class=&quot;row&quot;&gt;
   &lt;div class=&quot;col-md-12&quot;&gt;
-    &lt;a href=&quot;../img/portfolio/page3.png&quot; data-lightbox=&quot;spartans&quot;&gt;&lt;img class=&quot;large-img&quot; src=&quot;../img/portfolio/page3.png&quot;/&gt;&lt;/a&gt;
+    &lt;a href=&quot;../img/portfolio/page3.png&quot; data-lightbox=&quot;spartans&quot;&gt;&lt;img class=&quot;large-img img-border&quot; src=&quot;../img/portfolio/page3.png&quot;/&gt;&lt;/a&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class=&quot;row&quot;&gt;
   &lt;div class=&quot;col-md-12&quot;&gt;
-    &lt;a href=&quot;../img/portfolio/page4.png&quot; data-lightbox=&quot;spartans&quot;&gt;&lt;img class=&quot;large-img&quot; src=&quot;../img/portfolio/page4.png&quot;/&gt;&lt;/a&gt;
+    &lt;a href=&quot;../img/portfolio/page4.png&quot; data-lightbox=&quot;spartans&quot;&gt;&lt;img class=&quot;large-img img-border&quot; src=&quot;../img/portfolio/page4.png&quot;/&gt;&lt;/a&gt;
   &lt;/div&gt;
 &lt;/div&gt;</content><author><name></name></author><summary type="html">Spartans Speak is a North Surrey Secondary's school magazine club. My role at the club was Head Designer of the magazine that we produced bi-monthly. I had full control over the design of the magazine. My duties included planning out the full layout of each issue, finding assets, taking photos, and deciding how articles are ordered. The magazines were designed with InDesign and Photoshop. You can view the November 2013 edition here.</summary></entry></feed>

@@ -3,12 +3,16 @@
 layout: default
 title: Celina Chang
 ---
-
+<h1 class="mobile-page-title">works</h1>
 <div class="set works-container">
   {% for post in site.posts %}
   <div class="item works-item">
     <img src="{{ post.thumb }}"/>
     <span><a href="{{ post.url | relative_url }}"><h2 class="title">{{ post.title | escape }}</h2></a></span>
+    <div class="mobile-title-container">
+      <h2 class="mobile-title">{{ post.title | escape }}</h2>
+      <h2 class="mobile-subtitle">{{ post.description | escape }}</h2>
+    </div>
   </div>
   {% endfor %}
 </div>

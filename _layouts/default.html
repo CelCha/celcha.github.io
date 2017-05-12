@@ -5,19 +5,24 @@
       <meta charset="UTF-8">
       <meta name="description" content="" />
       <meta name="keywords" content="" />
+      <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1"/>
+
       <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,800" rel="stylesheet">
       <link href="https://fonts.googleapis.com/css?family=Lato:100,300,400" rel="stylesheet">
       <link href="https://fonts.googleapis.com/css?family=Maven+Pro:400,500,700,900" rel="stylesheet">
 
       <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
 
-    <link rel="stylesheet" href="{{ "/css/stylesheet.css" | relative.url }}">
-    <link rel="stylesheet" href="{{ "/css/workstyle.css" | relative.url }}">
-    <link rel="stylesheet" href="{{ "/css/lightbox.min.css" | relative.url }}">
+      <link rel="stylesheet" href="{{"/css/mobilestyle.css" | relative.url }}">
+      <link rel="stylesheet" href="{{ "/css/stylesheet.css" | relative.url }}">
+
+      <link rel="stylesheet" href="{{ "/css/workstyle.css" | relative.url }}">
+      <link rel="stylesheet" href="{{ "/css/lightbox.min.css" | relative.url }}">
 
       <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.2/jquery.min.js"></script>
       <script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js"></script><!-- Modernizr -->
       <script src="{{ "/js/video.js" | relative.url }}"></script>
+      <script src="{{ "/js/mobile-nav.js" | relative.url }}"></script>
       {% if jekyll.environment == 'production' and site.google_analytics %}
       {% include google-analytics.html %}
       {% endif %}
@@ -38,6 +43,36 @@
           </nav>
 
     		</div>
+      </header>
+      <header class="mobile-header" role="banner">
+          <div class="row">
+            <nav class="main-nav">
+              <ul class="mobile-nav">
+        				<li>
+        					  <a class="navbar-brand" href="{{ "/" | relative_url }}"><h1>celina chang</h1></a>
+        				</li>
+        				<li>
+                  <div id="menu-icon">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                  </div>
+        				</li>
+        			</ul>
+            </nav>
+            <div class="main-mobile-nav">
+              <ul class="nav nav-pills nav-stacked">
+                <li><a class="nav-link" href="/" {% if page.url == "/" %}class="active"{% endif %}>works</a></li>
+                <li><a class= "nav-link" href="/gallery/" {% if page.url == "/gallery/" %}class="active"{% endif %}>gallery</a></li>
+                <li><a class= "nav-link" href="/motion/" {% if page.url == "/motion/" %}class="active"{% endif %}>motion</a></li>
+                <li><a class= "nav-link" href="https://drive.google.com/file/d/0BwwDTBfVzlxTTFh6My1uS1NSN1U/view?usp=sharing">resume</a></li>
+                <li><a class= "nav-link" href="/about/" {% if page.url == "/about/" %}class="active"{% endif %}>about</a></li>
+              </ul>
+            </div>
+          </div>
       </header>
 
       <div class="content">

@@ -5,19 +5,24 @@
       <meta charset="UTF-8">
       <meta name="description" content="" />
       <meta name="keywords" content="" />
+      <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1"/>
+
       <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,800" rel="stylesheet">
       <link href="https://fonts.googleapis.com/css?family=Lato:100,300,400" rel="stylesheet">
       <link href="https://fonts.googleapis.com/css?family=Maven+Pro:400,500,700,900" rel="stylesheet">
 
       <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
 
-    <link rel="stylesheet" href="/css/stylesheet.css">
-    <link rel="stylesheet" href="/css/workstyle.css">
-    <link rel="stylesheet" href="/css/lightbox.min.css">
+      <link rel="stylesheet" href="/css/mobilestyle.css">
+      <link rel="stylesheet" href="/css/stylesheet.css">
+
+      <link rel="stylesheet" href="/css/workstyle.css">
+      <link rel="stylesheet" href="/css/lightbox.min.css">
 
       <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.2/jquery.min.js"></script>
       <script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js"></script><!-- Modernizr -->
       <script src="/js/video.js"></script>
+      <script src="/js/mobile-nav.js"></script>
       
 
   </head>
@@ -37,10 +42,41 @@
 
     		</div>
       </header>
+      <header class="mobile-header" role="banner">
+          <div class="row">
+            <nav class="main-nav">
+              <ul class="mobile-nav">
+        				<li>
+        					  <a class="navbar-brand" href="/"><h1>celina chang</h1></a>
+        				</li>
+        				<li>
+                  <div id="menu-icon">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                  </div>
+        				</li>
+        			</ul>
+            </nav>
+            <div class="main-mobile-nav">
+              <ul class="nav nav-pills nav-stacked">
+                <li><a class="nav-link" href="/" >works</a></li>
+                <li><a class= "nav-link" href="/gallery/" >gallery</a></li>
+                <li><a class= "nav-link" href="/motion/" class="active">motion</a></li>
+                <li><a class= "nav-link" href="https://drive.google.com/file/d/0BwwDTBfVzlxTTFh6My1uS1NSN1U/view?usp=sharing">resume</a></li>
+                <li><a class= "nav-link" href="/about/" >about</a></li>
+              </ul>
+            </div>
+          </div>
+      </header>
 
       <div class="content">
-        <div class="motion">
-  <h2>3D animation and modelling</h2>
+        <h1 class="mobile-page-title">motion</h1>
+<div class="motion">
+  <h2 class="mobile-division-title">3D Animation and Modelling</h2>
   <div class="set motion-container">
     <div class="motion-item">
       <div id="vid-4" class="motion-overlay">
@@ -49,12 +85,20 @@
       </div>
       <iframe width="100%" height="100%" src="https://www.youtube.com/embed/DrMAklyn0W8" frameborder="0" allowfullscreen></iframe>
     </div>
+    <div class="mobile-title-container">
+      <h2 class="mobile-title">Paper Plane</h2>
+      <h2 class="mobile-subtitle">3D Modelling and Animation | Maya</h2>
+    </div>
     <div class="motion-item">
       <div id="vid-3" class="motion-overlay">
         <center><img src="../img/motion/christmas_tree.png"/></center>
-        <span><h2 class="title">Christmas</h2></span>
+        <span><h2 class="title">Snow Globe</h2></span>
       </div>
       <iframe width="100%" height="100%" src="https://www.youtube.com/embed/gZeSeesra30" frameborder="0" allowfullscreen></iframe>
+    </div>
+    <div class="mobile-title-container">
+      <h2 class="mobile-title">Snow Globe</h2>
+      <h2 class="mobile-subtitle">3D Modelling and Animation | Maya</h2>
     </div>
     <div class="motion-item">
       <div id="vid-2" class="motion-overlay">
@@ -63,6 +107,10 @@
       </div>
       <iframe width="100%" height="100%" src="https://www.youtube.com/embed/ifppON6KRpA" frameborder="0" allowfullscreen></iframe>
     </div>
+    <div class="mobile-title-container">
+      <h2 class="mobile-title">Haunted House</h2>
+      <h2 class="mobile-subtitle">3D Modelling and Animation| Maya</h2>
+    </div>
     <div class="motion-item">
       <div id="vid-1" class="motion-overlay">
         <center><img src="../img/motion/house.png"/></center>
@@ -70,9 +118,13 @@
       </div>
       <iframe width="100%" height="100%" src="https://www.youtube.com/embed/vFBHahPNJAc" frameborder="0" allowfullscreen></iframe>
     </div>
+    <div class="mobile-title-container">
+      <h2 class="mobile-title">Building Model</h2>
+      <h2 class="mobile-subtitle">3D Modelling | Maya</h2>
+    </div>
   </div>
 
-  <h2>2D animation</h2>
+  <h2 class="mobile-division-title">2D Animation</h2>
   <div class="set motion-container">
     <div class="motion-item">
       <div id="vid-5" class="motion-overlay">
@@ -80,11 +132,19 @@
         <span><a href="../img/motion/li.gif" data-lightbox="motion"><h2 class="title">Blink</h2></a></span>
       </div>
     </div>
+    <div class="mobile-title-container">
+      <h2 class="mobile-title">Limon Blink</h2>
+      <h2 class="mobile-subtitle">2D Animation | PaintTool SAI, Photoshop</h2>
+    </div>
     <div class="motion-item">
       <div class="motion-overlay">
         <center><img class="gif" src="../img/motion/blink.gif"/></center>
         <span><a href="../img/motion/blink.gif" data-lightbox="motion"><h2 class="title">Blink</h2></a></span>
       </div>
+    </div>
+    <div class="mobile-title-container">
+      <h2 class="mobile-title">Blink</h2>
+      <h2 class="mobile-subtitle">2D Animation | PaintTool SAI, Photoshop</h2>
     </div>
   </div>
 </div>
