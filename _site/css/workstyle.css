@@ -1,17 +1,25 @@
-.index .navbar-brand .backarrow {
+/*.index .navbar-brand .backarrow {
 	background: url(../icons/backarrow.png) no-repeat;
     background-size: 32px 32px;
     height: 32px;
     width: 32px;
-}
+} */
+
+
 .work-content {
 	margin: 20px 115px 20px 100px;
 	padding: 0px 50px 0px 50px;
 }
-	.work-content h1, .work-content h2{
+	.work-content .work-title, .work-content .work-description{
 		text-align: center;
 		margin: 10px;
 		padding: 0px;
+	}
+	.work-subtitle {
+		color: #4A4A4A;
+		text-align: left;
+		font-size: 1.5rem;
+		margin-left: 0px;
 	}
 	.work-content p {
 		line-height: 1.5;
