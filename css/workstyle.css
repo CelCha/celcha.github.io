@@ -45,6 +45,15 @@
 	.img-border {
 			border: 1px solid #CCCCCC;
 	}
+	.space {
+		width: 70%;
+		height: auto;
+		opacity: 1;
+		-o-transition: .5s;
+		-ms-transition: .5s;
+		-moz-transition: .5s;
+		-webkit-transition: .5s;
+	}
 
 .workpage-container {
 	margin: 50px 65px 50px 65px;
@@ -122,7 +131,7 @@
 }*/
 
 @media all and (min-width: 750px) {
-	.large-img:hover {
+	.large-img:hover, .space:hover {
 		opacity: 0.9;
 	}
 	.work-asset img:hover {
