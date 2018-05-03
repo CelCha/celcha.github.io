@@ -5,6 +5,14 @@
     width: 32px;
 } */
 
+.left {
+	text-align: left;
+	margin-left: 0px;
+}
+
+.center {
+	text-align: center;
+}
 
 .work-content {
 	margin: 20px 115px 20px 100px;
@@ -17,9 +25,7 @@
 	}
 	.work-subtitle {
 		color: #4A4A4A;
-		text-align: left;
 		font-size: 1.5rem;
-		margin-left: 0px;
 	}
 	.work-content p {
 		line-height: 1.5;
@@ -95,6 +101,14 @@
 		width: 15%;
 		height: auto;
 	}
+	.medium {
+		width: 20%;
+		height: auto;
+	}
+	.large {
+		width: 35%;
+		height: auto;
+	}
 
 .work-asset img {
 	width: 100%;
@@ -155,5 +169,8 @@
 	}
 	#husky-web {
 		display: none;
+	}
+	h2.work-subtitle {
+		margin: 50px 0px 50px 0px;
 	}
 }

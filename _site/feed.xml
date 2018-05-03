@@ -1,5 +1,37 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-02-03T18:11:36-05:00</updated><id>http://localhost:4000/</id><title type="html">Celina Chang</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
-</subtitle><entry><title type="html">Spotly</title><link href="http://localhost:4000/works/spotly.html" rel="alternate" type="text/html" title="Spotly" /><published>2017-05-23T03:47:50-04:00</published><updated>2017-05-23T03:47:50-04:00</updated><id>http://localhost:4000/works/spotly</id><content type="html" xml:base="http://localhost:4000/works/spotly.html">&lt;div class=&quot;row paragraph&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-05-03T01:31:02-04:00</updated><id>http://localhost:4000/</id><title type="html">Celina Chang</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+</subtitle><entry><title type="html">Muqo</title><link href="http://localhost:4000/works/muqo.html" rel="alternate" type="text/html" title="Muqo" /><published>2018-05-02T03:47:50-04:00</published><updated>2018-05-02T03:47:50-04:00</updated><id>http://localhost:4000/works/muqo</id><content type="html" xml:base="http://localhost:4000/works/muqo.html">&lt;div class=&quot;row paragraph&quot;&gt;
+  &lt;div class=&quot;col-md-12&quot;&gt;
+    &lt;p style=&quot;margin-bottom: 0px&quot;&gt;Muqo is a new and upcoming music and social networking app. The social app allows users to add music from their libraries to their social media post.
+
+    &lt;br&gt;&lt;br&gt;
+    Muqo was a client that asked for a simple website to showcase their new app. The purpose of the website was for users to find more information on the app and find the download link when it becomes available.
+
+    &lt;br&gt;&lt;br&gt;
+    I designed the Muqo website to be a simple, one-pager site. The menu buttons takes users to the appropriate section. The colour scheme of Muqo was red and white, therefore the website was revolved around these two colours. The link to the website can be found &lt;span&gt;&lt;a class=&quot;text-link&quot; href=&quot;https://muqo.ca/&quot;&gt;here.&lt;/a&gt;&lt;/span&gt;
+
+    &lt;br&gt;&lt;br&gt;
+    After I finished the website, my client asked for a logo redesign/touch-up. Requests include raising the left side of the &quot;u&quot; and reorienting the microphone. I simplified the &quot;O&quot; and retraced the microphone in vector format. The original logo can be seen on the left (top) and the new logo on the right (bottom).
+    &lt;/p&gt;
+
+    &lt;h2 class=&quot;work-subtitle center&quot;&gt;Logo Redesign&lt;/h2&gt;
+    &lt;div class=&quot;set workpage-container&quot;&gt;
+      &lt;div class=&quot;work-asset four-item large&quot;&gt;
+        &lt;a href=&quot;../img/portfolio/muqo.png&quot; data-lightbox=&quot;muqo&quot;&gt;&lt;img  src=&quot;../img/portfolio/muqo.png&quot;/&gt;&lt;/a&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;work-asset four-item large&quot;&gt;
+        &lt;a href=&quot;../img/portfolio/muqo2.png&quot; data-lightbox=&quot;muqo&quot;&gt;&lt;img  src=&quot;../img/portfolio/muqo2.png&quot;/&gt;&lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+  &lt;h2 class=&quot;work-subtitle center&quot;&gt;Website Design&lt;/h2&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+  &lt;center&gt;
+    &lt;a href=&quot;../img/portfolio/muqo-web.png&quot; data-lightbox=&quot;muqo&quot;&gt;&lt;img class=&quot;space img-border&quot; src=&quot;../img/portfolio/muqo-web.png&quot;/&gt;&lt;/a&gt;
+  &lt;/center&gt;
+&lt;/div&gt;</content><author><name></name></author><summary type="html">Muqo is a new and upcoming music and social networking app. The social app allows users to add music from their libraries to their social media post.</summary></entry><entry><title type="html">Spotly</title><link href="http://localhost:4000/works/spotly.html" rel="alternate" type="text/html" title="Spotly" /><published>2017-05-23T03:47:50-04:00</published><updated>2017-05-23T03:47:50-04:00</updated><id>http://localhost:4000/works/spotly</id><content type="html" xml:base="http://localhost:4000/works/spotly.html">&lt;div class=&quot;row paragraph&quot;&gt;
   &lt;div class=&quot;col-md-12&quot;&gt;
     &lt;p&gt;Spotly is a web application that allows users to share and track their fitness progress. This project is currently in progress with 2 other developers. I hold the responsibility of designing the UI and visual appearance of the web-site as well as implementing the front-end. The front-end is currently being implemented with HTML, CSS/SASS, and JavaScript. Below are the initial mock-ups of the website.
     &lt;br&gt;&lt;br&gt;The project can be found at &lt;a style=&quot;color: #00d1b2;&quot; href=&quot;https://github.com/jnkfong/Spotly&quot;&gt;Spotly.&lt;/a&gt;&lt;/p&gt;
@@ -69,7 +101,63 @@
   &lt;div class=&quot;work-asset four-item small&quot;&gt;
     &lt;a href=&quot;../img/portfolio/TD7.png&quot; data-lightbox=&quot;TD&quot;&gt;&lt;img  src=&quot;../img/portfolio/TD7.png&quot;/&gt;&lt;/a&gt;
   &lt;/div&gt;
-&lt;/div&gt;</content><author><name></name></author><summary type="html">I worked at TD Lab—TD Bank Group as a UI/UX Designer. The project we worked on was a mobile application. The application would have a feed and an onboarding componen and I was responsible for designing these components. A quick wireframe of the onboarding carousel is shown below. Multiple layout options for the feed is also shown below. These mock-ups were made with Sketch.</summary></entry><entry><title type="html">WeMesh Presskit</title><link href="http://localhost:4000/works/wemesh-presskit.html" rel="alternate" type="text/html" title="WeMesh Presskit" /><published>2016-07-24T03:47:50-04:00</published><updated>2016-07-24T03:47:50-04:00</updated><id>http://localhost:4000/works/wemesh-presskit</id><content type="html" xml:base="http://localhost:4000/works/wemesh-presskit.html">&lt;div class=&quot;row paragraph&quot;&gt;
+&lt;/div&gt;</content><author><name></name></author><summary type="html">I worked at TD Lab—TD Bank Group as a UI/UX Designer. The project we worked on was a mobile application. The application would have a feed and an onboarding componen and I was responsible for designing these components. A quick wireframe of the onboarding carousel is shown below. Multiple layout options for the feed is also shown below. These mock-ups were made with Sketch.</summary></entry><entry><title type="html">Rave Media Redesign</title><link href="http://localhost:4000/works/rave-redesign.html" rel="alternate" type="text/html" title="Rave Media Redesign" /><published>2016-07-30T03:47:50-04:00</published><updated>2016-07-30T03:47:50-04:00</updated><id>http://localhost:4000/works/rave-redesign</id><content type="html" xml:base="http://localhost:4000/works/rave-redesign.html">&lt;div class=&quot;row paragraph&quot;&gt;
+  &lt;div class=&quot;col-md-12&quot;&gt;
+    &lt;p&gt;WeMesh Inc. (rebranded as Rave Media) is a company located in Waterloo. The company developed a social video playback app where users can watch videos with friends and chat about it in real time.
+
+    &lt;br&gt;&lt;br&gt;
+    I worked at WeMesh before it was rebranded as Rave Media as a UI/UX Designer.
+    After seeing the new theme and logo, I experimented with the layout and colour scheme of the app.
+
+    &lt;br&gt;&lt;br&gt; The colours of the new logo were black and white as opposed to the original red logo. I first tried out black and very dark gray as the main colour in the background. The dark background gives the app a cinematic feel and is easier on the eyes. I also tried the layout with a white background and it gave the app a very clean and neat look. Another theme I attempted was adding a red accent  colour, referencing back to the old red logo.
+    &lt;/p&gt;
+
+    &lt;h2 class=&quot;work-subtitle center&quot;&gt;Main screen layout&lt;/h2&gt;
+    &lt;div class=&quot;set workpage-container&quot;&gt;
+      &lt;div class=&quot;work-asset four-item medium&quot;&gt;
+        &lt;a href=&quot;../img/portfolio/lobby3.png&quot; data-lightbox=&quot;rave&quot;&gt;&lt;img  src=&quot;../img/portfolio/lobby3.png&quot;/&gt;&lt;/a&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;work-asset four-item medium&quot;&gt;
+        &lt;a href=&quot;../img/portfolio/lobby2.png&quot; data-lightbox=&quot;rave&quot;&gt;&lt;img  src=&quot;../img/portfolio/lobby2.png&quot;/&gt;&lt;/a&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;work-asset four-item medium&quot;&gt;
+        &lt;a href=&quot;../img/portfolio/lobby10.png&quot; data-lightbox=&quot;rave&quot;&gt;&lt;img  src=&quot;../img/portfolio/lobby10.png&quot;/&gt;&lt;/a&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;work-asset four-item medium&quot;&gt;
+        &lt;a href=&quot;../img/portfolio/lobby12.png&quot; data-lightbox=&quot;rave&quot;&gt;&lt;img  src=&quot;../img/portfolio/lobby12.png&quot;/&gt;&lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+
+    &lt;div class=&quot;set workpage-container&quot;&gt;
+      &lt;div class=&quot;work-asset four-item medium&quot;&gt;
+        &lt;a href=&quot;../img/portfolio/lobby1.png&quot; data-lightbox=&quot;rave&quot;&gt;&lt;img  src=&quot;../img/portfolio/lobby1.png&quot;/&gt;&lt;/a&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;work-asset four-item medium&quot;&gt;
+        &lt;a href=&quot;../img/portfolio/lobby4.png&quot; data-lightbox=&quot;rave&quot;&gt;&lt;img  src=&quot;../img/portfolio/lobby4.png&quot;/&gt;&lt;/a&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;work-asset four-item medium&quot;&gt;
+        &lt;a href=&quot;../img/portfolio/lobby7.png&quot; data-lightbox=&quot;rave&quot;&gt;&lt;img  src=&quot;../img/portfolio/lobby7.png&quot;/&gt;&lt;/a&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;work-asset four-item medium&quot;&gt;
+        &lt;a href=&quot;../img/portfolio/2.png&quot; data-lightbox=&quot;rave&quot;&gt;&lt;img  src=&quot;../img/portfolio/2.png&quot;/&gt;&lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;h2 class=&quot;work-subtitle center&quot;&gt;Chat layout&lt;/h2&gt;
+    &lt;div class=&quot;set workpage-container&quot;&gt;
+      &lt;div class=&quot;work-asset four-item medium&quot;&gt;
+        &lt;a href=&quot;../img/portfolio/chat1.png&quot; data-lightbox=&quot;rave&quot;&gt;&lt;img  src=&quot;../img/portfolio/chat1.png&quot;/&gt;&lt;/a&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;work-asset four-item medium&quot;&gt;
+        &lt;a href=&quot;../img/portfolio/chat2.png&quot; data-lightbox=&quot;rave&quot;&gt;&lt;img  src=&quot;../img/portfolio/chat2.png&quot;/&gt;&lt;/a&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;work-asset four-item medium&quot;&gt;
+        &lt;a href=&quot;../img/portfolio/3.png&quot; data-lightbox=&quot;rave&quot;&gt;&lt;img  src=&quot;../img/portfolio/3.png&quot;/&gt;&lt;/a&gt;
+      &lt;/div&gt;
+
+    &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;</content><author><name></name></author><summary type="html">WeMesh Inc. (rebranded as Rave Media) is a company located in Waterloo. The company developed a social video playback app where users can watch videos with friends and chat about it in real time.</summary></entry><entry><title type="html">WeMesh Presskit</title><link href="http://localhost:4000/works/wemesh-presskit.html" rel="alternate" type="text/html" title="WeMesh Presskit" /><published>2016-07-24T03:47:50-04:00</published><updated>2016-07-24T03:47:50-04:00</updated><id>http://localhost:4000/works/wemesh-presskit</id><content type="html" xml:base="http://localhost:4000/works/wemesh-presskit.html">&lt;div class=&quot;row paragraph&quot;&gt;
   &lt;div class=&quot;col-md-12&quot;&gt;
     &lt;p&gt;As a UI/UX Designer at WeMesh (rebranded as Rave), I was tasked with designing and implementing the presskit for the company's website. I used Bootstrap and JavaScript/JQuery to implement the webpage. Below is a quick snapshot of the presskit.&lt;/p&gt;
   &lt;/div&gt;
