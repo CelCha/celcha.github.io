@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-05-03T01:31:02-04:00</updated><id>http://localhost:4000/</id><title type="html">Celina Chang</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-05-13T21:54:16-04:00</updated><id>http://localhost:4000/</id><title type="html">Celina Chang</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 </subtitle><entry><title type="html">Muqo</title><link href="http://localhost:4000/works/muqo.html" rel="alternate" type="text/html" title="Muqo" /><published>2018-05-02T03:47:50-04:00</published><updated>2018-05-02T03:47:50-04:00</updated><id>http://localhost:4000/works/muqo</id><content type="html" xml:base="http://localhost:4000/works/muqo.html">&lt;div class=&quot;row paragraph&quot;&gt;
   &lt;div class=&quot;col-md-12&quot;&gt;
     &lt;p style=&quot;margin-bottom: 0px&quot;&gt;Muqo is a new and upcoming music and social networking app. The social app allows users to add music from their libraries to their social media post.
@@ -15,23 +15,64 @@
 
     &lt;h2 class=&quot;work-subtitle center&quot;&gt;Logo Redesign&lt;/h2&gt;
     &lt;div class=&quot;set workpage-container&quot;&gt;
-      &lt;div class=&quot;work-asset four-item large&quot;&gt;
+      &lt;div class=&quot;work-asset four-item&quot;&gt;
         &lt;a href=&quot;../img/portfolio/muqo.png&quot; data-lightbox=&quot;muqo&quot;&gt;&lt;img  src=&quot;../img/portfolio/muqo.png&quot;/&gt;&lt;/a&gt;
       &lt;/div&gt;
-      &lt;div class=&quot;work-asset four-item large&quot;&gt;
+      &lt;div class=&quot;work-asset four-item&quot;&gt;
         &lt;a href=&quot;../img/portfolio/muqo2.png&quot; data-lightbox=&quot;muqo&quot;&gt;&lt;img  src=&quot;../img/portfolio/muqo2.png&quot;/&gt;&lt;/a&gt;
       &lt;/div&gt;
     &lt;/div&gt;
+    &lt;h2 class=&quot;work-subtitle center&quot;&gt;Website Design&lt;/h2&gt;
   &lt;/div&gt;
-
-  &lt;h2 class=&quot;work-subtitle center&quot;&gt;Website Design&lt;/h2&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;row&quot;&gt;
   &lt;center&gt;
     &lt;a href=&quot;../img/portfolio/muqo-web.png&quot; data-lightbox=&quot;muqo&quot;&gt;&lt;img class=&quot;space img-border&quot; src=&quot;../img/portfolio/muqo-web.png&quot;/&gt;&lt;/a&gt;
   &lt;/center&gt;
-&lt;/div&gt;</content><author><name></name></author><summary type="html">Muqo is a new and upcoming music and social networking app. The social app allows users to add music from their libraries to their social media post.</summary></entry><entry><title type="html">Spotly</title><link href="http://localhost:4000/works/spotly.html" rel="alternate" type="text/html" title="Spotly" /><published>2017-05-23T03:47:50-04:00</published><updated>2017-05-23T03:47:50-04:00</updated><id>http://localhost:4000/works/spotly</id><content type="html" xml:base="http://localhost:4000/works/spotly.html">&lt;div class=&quot;row paragraph&quot;&gt;
+&lt;/div&gt;</content><author><name></name></author><summary type="html">Muqo is a new and upcoming music and social networking app. The social app allows users to add music from their libraries to their social media post.</summary></entry><entry><title type="html">Electronic Arts</title><link href="http://localhost:4000/works/ea.html" rel="alternate" type="text/html" title="Electronic Arts" /><published>2017-12-22T02:47:50-05:00</published><updated>2017-12-22T02:47:50-05:00</updated><id>http://localhost:4000/works/ea</id><content type="html" xml:base="http://localhost:4000/works/ea.html">&lt;div class=&quot;row paragraph&quot;&gt;
+  &lt;div class=&quot;col-md-12&quot;&gt;
+    &lt;p style=&quot;margin-bottom: 0px&quot;&gt;In Fall 2017, I worked at Electronic Arts as an Associate Product Manager Co-op on the FIFA Mobile Live team. FIFA Mobile is a football simulation mobile game developed by EA Mobile.
+
+    &lt;br&gt;&lt;br&gt;
+    I joined the team during the development of FIFA Mobile Season 2. My responsibilities included participating in the design process and implementation of new events and programs, documenting new features and events on Confluence, maintaining base content, and updating weekly events.
+
+    &lt;br&gt;&lt;br&gt;
+    I designed and implemented the layout of the Rest of the World campaign and redesigned some layouts of other existing campaigns to produce a more cohesive UI and design. Some issues with previous layouts included spacing, aesthetics, and UI. When redesigning the layouts, restrictions included keeping the connection of nodes and the number of nodes the same. Below are some images of the design and redesign process of the campaign layouts.
+
+    &lt;/p&gt;
+
+    &lt;h2 class=&quot;work-subtitle center&quot;&gt;Campaign design process&lt;/h2&gt;
+    &lt;div class=&quot;set workpage-container&quot;&gt;
+      &lt;div class=&quot;work-asset two-item&quot;&gt;
+        &lt;a href=&quot;../img/portfolio/ea_mock1.png&quot; data-lightbox=&quot;ea&quot;&gt;&lt;img  src=&quot;../img/portfolio/ea_mock1.png&quot;/&gt;&lt;/a&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;work-asset two-item&quot;&gt;
+        &lt;a href=&quot;../img/portfolio/ea_mock2.png&quot; data-lightbox=&quot;ea&quot;&gt;&lt;img  src=&quot;../img/portfolio/ea_mock2.png&quot;/&gt;&lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;set workpage-container&quot;&gt;
+      &lt;div class=&quot;work-asset three-item&quot;&gt;
+        &lt;a href=&quot;../img/portfolio/ea_mock3.png&quot; data-lightbox=&quot;ea&quot;&gt;&lt;img  src=&quot;../img/portfolio/ea_mock3.png&quot;/&gt;&lt;/a&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;work-asset three-item&quot;&gt;
+        &lt;a href=&quot;../img/portfolio/ea_mock4.png&quot; data-lightbox=&quot;ea&quot;&gt;&lt;img  src=&quot;../img/portfolio/ea_mock4.png&quot;/&gt;&lt;/a&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;work-asset three-item&quot;&gt;
+        &lt;a href=&quot;../img/portfolio/ea_mock5.png&quot; data-lightbox=&quot;ea&quot;&gt;&lt;img  src=&quot;../img/portfolio/ea_mock5.png&quot;/&gt;&lt;/a&gt;
+      &lt;/div&gt;
+      &lt;h2 class=&quot;work-subtitle left&quot;&gt;Screenshots&lt;/h2&gt;
+      &lt;div class=&quot;set workpage-container&quot;&gt;
+        &lt;div class=&quot;work-asset two-item&quot;&gt;
+          &lt;a href=&quot;../img/portfolio/ea_screen1.png&quot; data-lightbox=&quot;ea&quot;&gt;&lt;img  src=&quot;../img/portfolio/ea_screen1.png&quot;/&gt;&lt;/a&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;work-asset two-item&quot;&gt;
+          &lt;a href=&quot;../img/portfolio/ea_screen2.png&quot; data-lightbox=&quot;ea&quot;&gt;&lt;img  src=&quot;../img/portfolio/ea_screen2.png&quot;/&gt;&lt;/a&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;</content><author><name></name></author><summary type="html">In Fall 2017, I worked at Electronic Arts as an Associate Product Manager Co-op on the FIFA Mobile Live team. FIFA Mobile is a football simulation mobile game developed by EA Mobile.</summary></entry><entry><title type="html">Spotly</title><link href="http://localhost:4000/works/spotly.html" rel="alternate" type="text/html" title="Spotly" /><published>2017-05-23T03:47:50-04:00</published><updated>2017-05-23T03:47:50-04:00</updated><id>http://localhost:4000/works/spotly</id><content type="html" xml:base="http://localhost:4000/works/spotly.html">&lt;div class=&quot;row paragraph&quot;&gt;
   &lt;div class=&quot;col-md-12&quot;&gt;
     &lt;p&gt;Spotly is a web application that allows users to share and track their fitness progress. This project is currently in progress with 2 other developers. I hold the responsibility of designing the UI and visual appearance of the web-site as well as implementing the front-end. The front-end is currently being implemented with HTML, CSS/SASS, and JavaScript. Below are the initial mock-ups of the website.
     &lt;br&gt;&lt;br&gt;The project can be found at &lt;a style=&quot;color: #00d1b2;&quot; href=&quot;https://github.com/jnkfong/Spotly&quot;&gt;Spotly.&lt;/a&gt;&lt;/p&gt;
@@ -114,43 +155,43 @@
 
     &lt;h2 class=&quot;work-subtitle center&quot;&gt;Main screen layout&lt;/h2&gt;
     &lt;div class=&quot;set workpage-container&quot;&gt;
-      &lt;div class=&quot;work-asset four-item medium&quot;&gt;
+      &lt;div class=&quot;work-asset four-item&quot;&gt;
         &lt;a href=&quot;../img/portfolio/lobby3.png&quot; data-lightbox=&quot;rave&quot;&gt;&lt;img  src=&quot;../img/portfolio/lobby3.png&quot;/&gt;&lt;/a&gt;
       &lt;/div&gt;
-      &lt;div class=&quot;work-asset four-item medium&quot;&gt;
+      &lt;div class=&quot;work-asset four-item&quot;&gt;
         &lt;a href=&quot;../img/portfolio/lobby2.png&quot; data-lightbox=&quot;rave&quot;&gt;&lt;img  src=&quot;../img/portfolio/lobby2.png&quot;/&gt;&lt;/a&gt;
       &lt;/div&gt;
-      &lt;div class=&quot;work-asset four-item medium&quot;&gt;
+      &lt;div class=&quot;work-asset four-item&quot;&gt;
         &lt;a href=&quot;../img/portfolio/lobby10.png&quot; data-lightbox=&quot;rave&quot;&gt;&lt;img  src=&quot;../img/portfolio/lobby10.png&quot;/&gt;&lt;/a&gt;
       &lt;/div&gt;
-      &lt;div class=&quot;work-asset four-item medium&quot;&gt;
+      &lt;div class=&quot;work-asset four-item&quot;&gt;
         &lt;a href=&quot;../img/portfolio/lobby12.png&quot; data-lightbox=&quot;rave&quot;&gt;&lt;img  src=&quot;../img/portfolio/lobby12.png&quot;/&gt;&lt;/a&gt;
       &lt;/div&gt;
     &lt;/div&gt;
 
     &lt;div class=&quot;set workpage-container&quot;&gt;
-      &lt;div class=&quot;work-asset four-item medium&quot;&gt;
+      &lt;div class=&quot;work-asset four-item&quot;&gt;
         &lt;a href=&quot;../img/portfolio/lobby1.png&quot; data-lightbox=&quot;rave&quot;&gt;&lt;img  src=&quot;../img/portfolio/lobby1.png&quot;/&gt;&lt;/a&gt;
       &lt;/div&gt;
-      &lt;div class=&quot;work-asset four-item medium&quot;&gt;
+      &lt;div class=&quot;work-asset four-item&quot;&gt;
         &lt;a href=&quot;../img/portfolio/lobby4.png&quot; data-lightbox=&quot;rave&quot;&gt;&lt;img  src=&quot;../img/portfolio/lobby4.png&quot;/&gt;&lt;/a&gt;
       &lt;/div&gt;
-      &lt;div class=&quot;work-asset four-item medium&quot;&gt;
+      &lt;div class=&quot;work-asset four-item&quot;&gt;
         &lt;a href=&quot;../img/portfolio/lobby7.png&quot; data-lightbox=&quot;rave&quot;&gt;&lt;img  src=&quot;../img/portfolio/lobby7.png&quot;/&gt;&lt;/a&gt;
       &lt;/div&gt;
-      &lt;div class=&quot;work-asset four-item medium&quot;&gt;
+      &lt;div class=&quot;work-asset four-item&quot;&gt;
         &lt;a href=&quot;../img/portfolio/2.png&quot; data-lightbox=&quot;rave&quot;&gt;&lt;img  src=&quot;../img/portfolio/2.png&quot;/&gt;&lt;/a&gt;
       &lt;/div&gt;
     &lt;/div&gt;
     &lt;h2 class=&quot;work-subtitle center&quot;&gt;Chat layout&lt;/h2&gt;
     &lt;div class=&quot;set workpage-container&quot;&gt;
-      &lt;div class=&quot;work-asset four-item medium&quot;&gt;
+      &lt;div class=&quot;work-asset four-item&quot;&gt;
         &lt;a href=&quot;../img/portfolio/chat1.png&quot; data-lightbox=&quot;rave&quot;&gt;&lt;img  src=&quot;../img/portfolio/chat1.png&quot;/&gt;&lt;/a&gt;
       &lt;/div&gt;
-      &lt;div class=&quot;work-asset four-item medium&quot;&gt;
+      &lt;div class=&quot;work-asset four-item&quot;&gt;
         &lt;a href=&quot;../img/portfolio/chat2.png&quot; data-lightbox=&quot;rave&quot;&gt;&lt;img  src=&quot;../img/portfolio/chat2.png&quot;/&gt;&lt;/a&gt;
       &lt;/div&gt;
-      &lt;div class=&quot;work-asset four-item medium&quot;&gt;
+      &lt;div class=&quot;work-asset four-item&quot;&gt;
         &lt;a href=&quot;../img/portfolio/3.png&quot; data-lightbox=&quot;rave&quot;&gt;&lt;img  src=&quot;../img/portfolio/3.png&quot;/&gt;&lt;/a&gt;
       &lt;/div&gt;
 

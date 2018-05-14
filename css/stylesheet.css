@@ -343,7 +343,6 @@ h3 {
 /*------------------------------------------*/
 
 .footer {
-
 	margin: 50px 100px 50px 120px;
 }
 	.footer h3 {
@@ -628,5 +627,7 @@ h3 {
 	    width: 100%;
 	    height: auto;
 	  }
-
+		.footer {
+			margin: 50px 0px 50px 0px;
+		}
 	}
