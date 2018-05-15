@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-05-13T21:54:16-04:00</updated><id>http://localhost:4000/</id><title type="html">Celina Chang</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-05-14T21:27:07-04:00</updated><id>http://localhost:4000/</id><title type="html">Celina Chang</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 </subtitle><entry><title type="html">Muqo</title><link href="http://localhost:4000/works/muqo.html" rel="alternate" type="text/html" title="Muqo" /><published>2018-05-02T03:47:50-04:00</published><updated>2018-05-02T03:47:50-04:00</updated><id>http://localhost:4000/works/muqo</id><content type="html" xml:base="http://localhost:4000/works/muqo.html">&lt;div class=&quot;row paragraph&quot;&gt;
   &lt;div class=&quot;col-md-12&quot;&gt;
     &lt;p style=&quot;margin-bottom: 0px&quot;&gt;Muqo is a new and upcoming music and social networking app. The social app allows users to add music from their libraries to their social media post.
@@ -7,12 +7,22 @@
     Muqo was a client that asked for a simple website to showcase their new app. The purpose of the website was for users to find more information on the app and find the download link when it becomes available.
 
     &lt;br&gt;&lt;br&gt;
-    I designed the Muqo website to be a simple, one-pager site. The menu buttons takes users to the appropriate section. The colour scheme of Muqo was red and white, therefore the website was revolved around these two colours. The link to the website can be found &lt;span&gt;&lt;a class=&quot;text-link&quot; href=&quot;https://muqo.ca/&quot;&gt;here.&lt;/a&gt;&lt;/span&gt;
+    I designed the Muqo website to be a simple, one-pager site. The menu buttons takes users to the appropriate section. The colour scheme of Muqo was red and white, therefore the website was revolved around these two colours. The link to the website can be found &lt;span&gt;&lt;a class=&quot;text-link&quot; href=&quot;https://muqo.ca/_index.html&quot;&gt;here.&lt;/a&gt;&lt;/span&gt;
 
     &lt;br&gt;&lt;br&gt;
     After I finished the website, my client asked for a logo redesign/touch-up. Requests include raising the left side of the &quot;u&quot; and reorienting the microphone. I simplified the &quot;O&quot; and retraced the microphone in vector format. The original logo can be seen on the left (top) and the new logo on the right (bottom).
+
+    &lt;br&gt;&lt;br&gt;
+    I was also asked to redesign the main feed of the application. The goal was to clean up the UI and optimize the space used in the main feed. In Muqo, the main feed consists of social media posts and each post contained a photo, lyrics, a caption, and an area to play the attached song.
     &lt;/p&gt;
 
+
+    &lt;h2 class=&quot;work-subtitle center&quot;&gt;Website Design&lt;/h2&gt;
+    &lt;div class=&quot;row&quot;&gt;
+      &lt;center&gt;
+        &lt;a href=&quot;../img/portfolio/muqo-web.png&quot; data-lightbox=&quot;muqo&quot;&gt;&lt;img class=&quot;space img-border&quot; src=&quot;../img/portfolio/muqo-web.png&quot;/&gt;&lt;/a&gt;
+      &lt;/center&gt;
+    &lt;/div&gt;
     &lt;h2 class=&quot;work-subtitle center&quot;&gt;Logo Redesign&lt;/h2&gt;
     &lt;div class=&quot;set workpage-container&quot;&gt;
       &lt;div class=&quot;work-asset four-item&quot;&gt;
@@ -22,14 +32,23 @@
         &lt;a href=&quot;../img/portfolio/muqo2.png&quot; data-lightbox=&quot;muqo&quot;&gt;&lt;img  src=&quot;../img/portfolio/muqo2.png&quot;/&gt;&lt;/a&gt;
       &lt;/div&gt;
     &lt;/div&gt;
-    &lt;h2 class=&quot;work-subtitle center&quot;&gt;Website Design&lt;/h2&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
+    &lt;h2 class=&quot;work-subtitle center&quot;&gt;App Main Feed Redesign&lt;/h2&gt;
+    &lt;div class=&quot;set workpage-container&quot;&gt;
+      &lt;div class=&quot;work-asset four-item&quot;&gt;
+        &lt;a href=&quot;../img/portfolio/muqo_mock2.png&quot; data-lightbox=&quot;muqo&quot;&gt;&lt;img  src=&quot;../img/portfolio/muqo_mock2.png&quot;/&gt;&lt;/a&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;work-asset four-item&quot;&gt;
+        &lt;a href=&quot;../img/portfolio/muqo_mock3.png&quot; data-lightbox=&quot;muqo&quot;&gt;&lt;img  src=&quot;../img/portfolio/muqo_mock3.png&quot;/&gt;&lt;/a&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;work-asset four-item&quot;&gt;
+        &lt;a href=&quot;../img/portfolio/muqo_mock4.png&quot; data-lightbox=&quot;muqo&quot;&gt;&lt;img  src=&quot;../img/portfolio/muqo_mock4.png&quot;/&gt;&lt;/a&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;work-asset four-item&quot;&gt;
+        &lt;a href=&quot;../img/portfolio/muqo_mock5.png&quot; data-lightbox=&quot;muqo&quot;&gt;&lt;img  src=&quot;../img/portfolio/muqo_mock5.png&quot;/&gt;&lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
 
-&lt;div class=&quot;row&quot;&gt;
-  &lt;center&gt;
-    &lt;a href=&quot;../img/portfolio/muqo-web.png&quot; data-lightbox=&quot;muqo&quot;&gt;&lt;img class=&quot;space img-border&quot; src=&quot;../img/portfolio/muqo-web.png&quot;/&gt;&lt;/a&gt;
-  &lt;/center&gt;
+  &lt;/div&gt;
 &lt;/div&gt;</content><author><name></name></author><summary type="html">Muqo is a new and upcoming music and social networking app. The social app allows users to add music from their libraries to their social media post.</summary></entry><entry><title type="html">Electronic Arts</title><link href="http://localhost:4000/works/ea.html" rel="alternate" type="text/html" title="Electronic Arts" /><published>2017-12-22T02:47:50-05:00</published><updated>2017-12-22T02:47:50-05:00</updated><id>http://localhost:4000/works/ea</id><content type="html" xml:base="http://localhost:4000/works/ea.html">&lt;div class=&quot;row paragraph&quot;&gt;
   &lt;div class=&quot;col-md-12&quot;&gt;
     &lt;p style=&quot;margin-bottom: 0px&quot;&gt;In Fall 2017, I worked at Electronic Arts as an Associate Product Manager Co-op on the FIFA Mobile Live team. FIFA Mobile is a football simulation mobile game developed by EA Mobile.
@@ -115,7 +134,7 @@
   &lt;/div&gt;
 &lt;/div&gt;</content><author><name></name></author><summary type="html">Every co-op term, I usually redesign my personal website due to new design practices and mostly to apply new skills I have obtained or old skills that I have improved. This term, the focus of the portfolio design was of course, the portfolio content. I wanted more pictures and less words which I tried to convey in my old design, but unfortunately it was poorly executed.</summary></entry><entry><title type="html">TD Lab</title><link href="http://localhost:4000/works/TD.html" rel="alternate" type="text/html" title="TD Lab" /><published>2017-05-01T03:47:50-04:00</published><updated>2017-05-01T03:47:50-04:00</updated><id>http://localhost:4000/works/TD</id><content type="html" xml:base="http://localhost:4000/works/TD.html">&lt;div class=&quot;row paragraph&quot;&gt;
   &lt;div class=&quot;col-md-12&quot;&gt;
-    &lt;p&gt;I worked at TD Lab—TD Bank Group as a UI/UX Designer. The project we worked on was a mobile application. The application would have a feed and an onboarding componen and I was responsible for designing these components. A quick wireframe of the onboarding carousel is shown below. Multiple layout options for the feed is also shown below. These mock-ups were made with Sketch.
+    &lt;p&gt;I worked at TD Lab—TD Bank Group as a UI/UX Designer. The project we worked on was a mobile application. The application would have a feed and an onboarding component and I was responsible for designing these components. A quick wireframe of the onboarding carousel is shown below. Multiple layout options for the feed is also shown below. These mock-ups were made with Sketch.
   &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class=&quot;row&quot;&gt;
@@ -142,7 +161,7 @@
   &lt;div class=&quot;work-asset four-item small&quot;&gt;
     &lt;a href=&quot;../img/portfolio/TD7.png&quot; data-lightbox=&quot;TD&quot;&gt;&lt;img  src=&quot;../img/portfolio/TD7.png&quot;/&gt;&lt;/a&gt;
   &lt;/div&gt;
-&lt;/div&gt;</content><author><name></name></author><summary type="html">I worked at TD Lab—TD Bank Group as a UI/UX Designer. The project we worked on was a mobile application. The application would have a feed and an onboarding componen and I was responsible for designing these components. A quick wireframe of the onboarding carousel is shown below. Multiple layout options for the feed is also shown below. These mock-ups were made with Sketch.</summary></entry><entry><title type="html">Rave Media Redesign</title><link href="http://localhost:4000/works/rave-redesign.html" rel="alternate" type="text/html" title="Rave Media Redesign" /><published>2016-07-30T03:47:50-04:00</published><updated>2016-07-30T03:47:50-04:00</updated><id>http://localhost:4000/works/rave-redesign</id><content type="html" xml:base="http://localhost:4000/works/rave-redesign.html">&lt;div class=&quot;row paragraph&quot;&gt;
+&lt;/div&gt;</content><author><name></name></author><summary type="html">I worked at TD Lab—TD Bank Group as a UI/UX Designer. The project we worked on was a mobile application. The application would have a feed and an onboarding component and I was responsible for designing these components. A quick wireframe of the onboarding carousel is shown below. Multiple layout options for the feed is also shown below. These mock-ups were made with Sketch.</summary></entry><entry><title type="html">Rave Media Redesign</title><link href="http://localhost:4000/works/rave-redesign.html" rel="alternate" type="text/html" title="Rave Media Redesign" /><published>2016-07-30T03:47:50-04:00</published><updated>2016-07-30T03:47:50-04:00</updated><id>http://localhost:4000/works/rave-redesign</id><content type="html" xml:base="http://localhost:4000/works/rave-redesign.html">&lt;div class=&quot;row paragraph&quot;&gt;
   &lt;div class=&quot;col-md-12&quot;&gt;
     &lt;p&gt;WeMesh Inc. (rebranded as Rave Media) is a company located in Waterloo. The company developed a social video playback app where users can watch videos with friends and chat about it in real time.
 

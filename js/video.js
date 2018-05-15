@@ -1,3 +1,5 @@
+
+
 $(document).ready(function(){
   $(".motion-overlay").show();
 
@@ -8,7 +10,7 @@ $(document).ready(function(){
   $("#vid-2").click(function(){
     $("#vid-2").fadeOut();
   });
-  
+
   $("#vid-3").click(function(){
     $("#vid-3").fadeOut();
   });
@@ -16,6 +18,5 @@ $(document).ready(function(){
   $("#vid-4").click(function(){
     $("#vid-4").fadeOut();
   });
-
 
 });
