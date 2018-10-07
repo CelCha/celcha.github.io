@@ -13,13 +13,22 @@
 }
 .work-content {
 	margin: 20px 115px 20px 100px;
-	padding: 0px 50px 0px 50px;
+	padding: 0px 200px 0px 200px;
 }
+	.work-content .indent {
+		margin-left: 30px;
+	}
 	.work-content .work-title, .work-content .work-description{
 		text-align: center;
 		margin: 10px;
 		padding: 0px;
 	}
+
+.work-description {
+	color: #969696;
+	font-size: 1.2rem;
+}
+
 	.work-subtitle {
 		color: #4A4A4A;
 		font-size: 1.5rem;
@@ -29,6 +38,33 @@
 		text-align: justify;
 	}
 
+	.work-content .quote{
+		text-align: center;
+		color: #828282;
+		font-style: italic;
+		font-size: 1.2rem;
+	}
+	.work-content .example {
+		text-align: center;
+		font-style: italic;
+	}
+
+	.work-content .sub-subtitle {
+		color: #4A4A4A;
+		font-size: 1.2rem;
+		padding: 20px 0px 10px 0px;
+	}
+	.work-content .sub-sub-subtitle {
+		color: #262626;
+		font-weight: 400;
+		padding: 20px 0px 10px 0px;
+	}
+	.work-content .list {
+		padding: 10px 0px 10px 50px;;
+	}
+		.work-content .list li{
+			padding: 5px 0px 5px 0px;
+		}
 	.work-content .row {
 		margin: 50px;
 	}
