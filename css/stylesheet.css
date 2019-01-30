@@ -67,8 +67,12 @@ h1 {
 h2 {
 	font-size: 1.5rem;
 	font-weight: 400;
-	margin: 50px 100px 10px 120px;
+	margin-top: 40px;
+	margin-bottom: 20px;
 	color: #141414;
+}
+.main-h2 {
+		margin: 50px 100px 10px 120px;
 }
 
 h3 {
@@ -310,7 +314,7 @@ h3 {
 	padding-right: 200px;
 }
 	.about .text h2 {
-		font-size: 0.8rem;
+		font-size: 1rem;
 		margin: 10px 0px 10px 0px;
 	}
 
